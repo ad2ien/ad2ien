@@ -55,5 +55,6 @@ I'm also keen on absurd... 🛶 🦡 🎪♑
 ![Git](https://img.shields.io/badge/Tools-Git-informational?style=plastic&logo=git&logoColor=white&color=181c49)
 ![AWS](https://img.shields.io/badge/Tools-AWS-informational?style=plastic&logo=Amazon%20AWS&logoColor=white&color=181c49)
 ![Markdown](https://img.shields.io/badge/Code-Markdown-informational?style=plastic&logo=markdown&logoColor=white&color=181c49)
+![Restic](https://img.shields.io/badge/Tool-Restic-informational?style=plastic&logo=restic&logoColor=white&color=181c49)
 
 ---
