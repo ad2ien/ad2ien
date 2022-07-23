@@ -24,3 +24,14 @@ jobs:
             -R "okp4/*"
         env:
           STAR_TOKEN: ${{ secrets.STAR_TOKEN }}
+
+      - name: Follow OKP4 members
+        run: |
+          USERS=$(gh repo list okp4 --json assignableUsers | jq '[.[].assignableUsers | .[].login]| unique | .[]' -r)
+          for u in $USERS
+          do
+            echo follow $u
+            gh api -X PUT user/following/$u
+          done
+        env:
+          GH_TOKEN: ${{ secrets.STAR_TOKEN }}
