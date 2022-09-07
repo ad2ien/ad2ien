@@ -58,3 +58,11 @@ I'm also keen on absurd... 🛶 🦡 🎪♑
 ![Restic](https://img.shields.io/badge/Tool-Restic-informational?style=plastic&logo=restic&logoColor=white&color=181c49)
 
 ---
+
+[![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ad2ien&theme=github&hide_border=true)](https://git.io/streak-stats)
+
+|  |  |
+|--- | --- |
+|![ad2ien's GitHub stats](https://github-readme-stats.vercel.app/api?username=ad2ien&show_icons=true&theme=tokyonight&count_private=true)|[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ad2ien&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+---
