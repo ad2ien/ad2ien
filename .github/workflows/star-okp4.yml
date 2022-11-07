@@ -8,7 +8,7 @@ on:
 
 jobs:
   star-okp4-repositories:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-22.04
     steps:
       - name: Setup node environment
         uses: actions/setup-node@v3
@@ -26,6 +26,7 @@ jobs:
           STAR_TOKEN: ${{ secrets.STAR_TOKEN }}
 
       - name: Follow OKP4 members
+        if: always()
         run: |
           USERS=$(gh repo list okp4 --json assignableUsers | jq '[.[].assignableUsers | .[].login]| unique | .[]' -r)
           for u in $USERS
