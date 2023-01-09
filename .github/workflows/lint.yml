@@ -12,7 +12,7 @@ on:
 
 jobs:
   lint-markdown:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     steps:
       - name: Check out repository
         uses: actions/checkout@v3
@@ -23,7 +23,7 @@ jobs:
           args: "**/*.md"
 
   lint-yaml:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     steps:
       - name: Check out repository
         uses: actions/checkout@v3
