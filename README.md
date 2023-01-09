@@ -7,7 +7,7 @@ That's weird maybe you should get a life. But then who am I to juge:
 
 ## I'm Adrien
 
-I'm a developer in my late 30s. I've worked as an IT consultant most of my career making my way from embedded C++ to Kotlin web applications through a large variety of projects. I'm now at [OKP4 👾](https://okp4.com/) trying to improve my skills and contribute to open source projects.
+I'm a developer in my early 40s. I've worked as an IT consultant most of my career making my way from embedded C++ to Kotlin web applications through a large variety of projects. I'm now at [OKP4 👾](https://okp4.com/) trying to improve my skills and contribute to open source projects.
 
 I'm based near Toulouse France but I spent some times in Paris, New-Zealand and Chile.
 
