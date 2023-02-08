@@ -1,13 +1,14 @@
 # Welcome 👋
 
-<a href="https://www.linkedin.com/in/adrien-touzouli-892180138" target="_blank"> <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" alt="linked in" width="80"  /> </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=LinkedIn&logoColor=white&color=0A66C2)](https://www.linkedin.com/in/adrien-touzouli-892180138)
+[![Website](https://img.shields.io/badge/Website-informational?style=for-the-badge&logo=GithubPages&logoColor=white&color=222222)](https://ad2ien.github.io/)
 
 Interested in me?  
 That's weird maybe you should get a life. But then who am I to juge:
 
 ## I'm Adrien
 
-I'm a developer in my early 40s. I've worked as an IT consultant most of my career making my way from embedded C++ to Kotlin web applications through a large variety of projects. I'm now at [OKP4 👾](https://okp4.com/) trying to improve my skills and contribute to open source projects.
+I'm a developer in my early 40s. I've worked as an IT consultant most of my career making my way from embedded C++ to Kotlin web applications through a large variety of projects. I'm always trying to improve my skills and contribute to open source projects.
 
 I'm based near Toulouse France but I spent some times in Paris, New-Zealand and Chile.
 
@@ -64,7 +65,7 @@ I'm also keen on absurd... 🛶 🦡 🎪♑
 
 ---
 
-[![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ad2ien&theme=github&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ad2ien&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
 
 |  |  |
 |--- | --- |
