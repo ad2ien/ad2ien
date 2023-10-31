@@ -14,7 +14,7 @@ I'm based near Toulouse France but I spent some times in Paris, New-Zealand and 
 
 ## Hobbies and skills
 
-🇨🇱 🇳🇿 🇬🇧 🇪🇸 🌽 🧄 🧗 ⛰️ 🍺 🎸 ✊
+🇨🇱 🇳🇿 🇬🇧 🇪🇸 🐝 🌽 🧄 🧗 ⛰️ 🍺 🎸 ✊
 
 I'm also extending the principle of open source by being involved in an association that develops a sector for an old variety of corn in the south west of France.
 
