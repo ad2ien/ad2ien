@@ -4,21 +4,21 @@
 [![Website](https://img.shields.io/badge/Website-informational?style=for-the-badge&logo=GithubPages&logoColor=white&color=222222)](https://ad2ien.github.io/)
 
 Interested in me?  
-That's weird maybe you should get a life. But then who am I to juge:
+That's weird maybe you should get a life. But then who am I to judge:
 
 ## I'm Adrien
 
-I'm a developer in my early 40s. I've worked as an IT consultant most of my career making my way from embedded C++ to Kotlin web applications through a large variety of projects. I'm always trying to improve my skills and contribute to open source projects.
+I'm a developer in my early 40s. I've worked as an IT consultant most of my career. I made my way from embedded C++ to Kotlin web applications through a large variety of projects. I'm always trying to improve my skills and contribute to open source projects.
 
 I'm based near Toulouse France but I spent some times in Paris, New-Zealand and Chile.
 
 ## Hobbies and skills
 
-🇨🇱 🇳🇿 🇬🇧 🇪🇸 🐝 🌽 🧄 🧗 ⛰️ 🍺 🎸 ✊
+🇨🇱 🇳🇿 🇬🇧 🇪🇸 🐝 🌽 🧗 ⛰️ 🍺 🎸 ✊
 
-I'm also extending the principle of open source by being involved in an association that develops a sector for an old variety of corn in the south west of France.
+I'm part of an association that develops a sector for an old variety of corn in the south west of France. Which, in a way, extends the principle of open source to agriculture.
 
-I'm also keen on absurd... 🛶 🦡 🎪♑
+I'm also keen on absurd... 🛶 🦡 🎪 ♑ 🧄
 
 ---
 
